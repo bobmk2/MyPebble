@@ -1,0 +1,54 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pebble",
+    "longName": "Tutorial-1-3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9%]",
+                "file": "fonts/PixelMplus10-Regular.ttf",
+                "name": "PIXEL_MPLUS10_REGULAR_23",
+                "type": "font"
+            },
+            {
+                "file": "images/rainsights.png",
+                "name": "RAIN_SIGHTS_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/my_background.png",
+                "name": "MY_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/silent_cat.png",
+                "name": "SILENT_CAT",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Tutorial-1-3",
+    "uuid": "32c83c10-4092-4c23-ade7-882ca25d325c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
