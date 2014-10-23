@@ -12,15 +12,15 @@
     "resources": {
         "media": [
             {
-                "characterRegex": "[0-9%]",
-                "file": "fonts/PixelMplus10-Regular.ttf",
-                "name": "PIXEL_MPLUS10_REGULAR_23",
-                "type": "font"
-            },
-            {
-                "file": "images/rainsights.png",
+                "file": "images/rainsights_3.png",
                 "name": "RAIN_SIGHTS_BACKGROUND",
                 "type": "png"
+            },
+            {
+                "characterRegex": "[0-9%_]",
+                "file": "fonts/PixelMplus10-Regular.ttf",
+                "name": "PIXEL_MPLUS10_REGULAR_46",
+                "type": "font"
             },
             {
                 "file": "images/my_background.png",
@@ -33,11 +33,18 @@
                 "type": "png"
             },
             {
+                "characterRegex": "[0-9%_]",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_26",
+                "type": "font"
+            },
+            {
                 "file": "fonts/perfect-dos-vga.ttf",
                 "name": "FONT_PERFECT_DOS_20",
                 "type": "font"
             },
             {
+                "characterRegex": "[0-9%_:.]",
                 "file": "fonts/perfect-dos-vga.ttf",
                 "name": "FONT_PERFECT_DOS_48",
                 "type": "font"
